@@ -1,2 +1,2 @@
 from playsound import playsound
-playsound('C:\MySong.wav')
+playsound('C:\Python Projects\Self Study\MySong.wav')
